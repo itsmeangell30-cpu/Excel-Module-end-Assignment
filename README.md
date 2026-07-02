@@ -244,7 +244,3 @@ These visualizations make business insights easy to understand.
 This project showcases how **Microsoft Excel** can transform raw E-Commerce sales data into meaningful business insights. Through data cleaning, Excel functions, Pivot Tables, dashboards, and visualizations, the analysis supports informed decision-making and helps optimize sales performance, inventory management, and customer engagement.
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
-
-### 👩‍💻 Created as part of my **Excel Data Analyst Portfolio Project**.
